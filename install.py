@@ -1,3 +1,12 @@
+git clone https://github.com/antichristone/antichristone_x86
+
+$ pip install aiohttp
+$ pip install beautifulsoup4
+$ pip install requests
+
+Launch:
+$ cd antichristone_x86
+$ python3 main.py
 #!/usr/bin/python
 
 """
